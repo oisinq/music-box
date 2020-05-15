@@ -63,6 +63,8 @@ async function main() {
     ].join(' '));
   }
 
+  lines.push("Follow me on Last.fm: https://last.fm/user/oisin1001")
+  
   try {
     // Get original filename to update that same file
     const filename = Object.keys(gist.data.files)[0];
