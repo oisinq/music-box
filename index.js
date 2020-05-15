@@ -64,6 +64,7 @@ async function main() {
   }
 
   lines.push("Follow me on Last.fm: https://last.fm/user/oisin1001")
+  lines.push("Source code: https://github.com/oisinq/music-box")
   
   try {
     // Get original filename to update that same file
